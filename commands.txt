@@ -1,0 +1,9 @@
+git init 
+git switch 
+git switch -c name = create the branch called name and switch to it 
+git branch 
+git checkout 
+git commit -a -m = all in one add and commit 
+git branch -d name = delete the branch with the name but dont delete the branch when you are inside the branch 
+git branch -D = force branch to delete
+git branch -m = rename the branch name 
