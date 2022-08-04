@@ -3,6 +3,7 @@ git add
 git commit -m 
 git switch 
 git switch -c name = create the branch called name and switch to it 
+git checkout -b name = create the branch called name and switch to it 
 git branch 
 git checkout 
 git commit -a -m = all in one add and commit 
