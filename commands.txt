@@ -12,3 +12,4 @@ git branch -D = force branch to delete
 git branch -m = rename the branch name 
 git branch -v = show all branches with more info
 git merge = merge should use in the first branch 
+git diff = showes the diff between two branchers of anything 
