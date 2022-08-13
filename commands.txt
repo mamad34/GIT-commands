@@ -1,6 +1,8 @@
 git init 
 git add 
 git commit -m 
+git log = log 
+git log --oneline = log in one line 
 git switch 
 git switch -c name = create the branch called name and switch to it 
 git checkout -b name = create the branch called name and switch to it 
@@ -13,3 +15,4 @@ git branch -m = rename the branch name
 git branch -v = show all branches with more info
 git merge = merge should use in the first branch 
 git diff = showes the diff between two branchers of anything 
+
